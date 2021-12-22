@@ -89,11 +89,11 @@ body {
   }
 
   #main h1 {
-    color: rgb(77, 20, 20);
+    color: rgb(84, 210, 233);
     margin-bottom: 8px;
   }
 
   #main p {
-    color: rgba(16, 19, 5, 0.507);
+    color: rgba(233, 64, 64, 0.911);
   }
 }
